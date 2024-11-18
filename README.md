@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bielpg04
-- 👀 I’m interested in html and c++
+- 👀 I’m interested in html and c++, java, node.js, css, SQL
 - 🌱 I’m currently learning both of the above
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me palomarbiel@gmail.com
